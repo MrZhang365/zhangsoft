@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/MrZhang365/zhangsoft/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrZhang365/zhangsoft/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 小张软件（ZhangSoft）
+## 关于
+小张软件是由Mr_Zhang于2019年创立的软件团队，是Mr_Zhang的梦想。在发展过程中遇到了不少挫折~~（这里就不点名了，惹不起）~~，但是都坚持了下去。常用编程语言：Visual Basic 6.0、Python3。
+我们相信小张软件会变得越来越好！
+## 软件列表
+1. [小张锁屏](https://zhanghelper.lanzouw.com/i3jhw02cqmmf)  一款没有广告的简易锁屏程序，~~（有彩蛋哦）~~。
+2. [小张壁纸](https://zhanghelper.lanzouw.com/iYfLu02ji3le)
+3. [小张计时器](https://zhanghelper.lanzouw.com/iYfLu02ji3le)  一款简洁的电脑计时器程序。
+4. [桌面冰墩墩](https://zhanghelper.lanzouw.com/iKAme024a3sd)  类似于桌面宠物，只会在你的桌面上循环播放冰墩墩动画，~~（彻底落实一户一墩，实现冰墩墩自由！）~~
+5. ZhangChat  一个聊天室服务器，使用Python3编写。由于功能过于不完善，所以没有发布。
+6. ZhangChatPlus  ZhangChat的升级版，使用Visual Basic 6.0编写，让每个人都能轻松地体验到站长的快乐。项目编写中，敬请期待！
