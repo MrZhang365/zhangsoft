@@ -12,6 +12,6 @@
 2. [小张壁纸](https://zhanghelper.lanzouw.com/iYfLu02ji3le)
 3. [小张计时器](https://zhanghelper.lanzouw.com/iYfLu02ji3le)  一款简洁的电脑计时器程序。
 4. [桌面冰墩墩](https://zhanghelper.lanzouw.com/iKAme024a3sd)  类似于桌面宠物，只会在你的桌面上循环播放冰墩墩动画。彻底落实一户一墩，实现冰墩墩自由！
-5. ZhangChat  一个聊天室服务器，使用Python3编写。由于功能过于不完善，所以没有发布。
-6. ZhangChatPlus  ZhangChat的升级版，使用Visual Basic 6.0编写，让每个人都能轻松地体验到站长的快乐。项目编写中，敬请期待！
-
+5. [XChat的Python库（机器人开发专用）](https://github.com/MrZhang365/XChat-Lib-for-Python)
+6. ZhangChat  一个聊天室服务器，使用Python3编写。由于功能过于不完善，所以没有发布。
+7. ZhangChatPlus  ZhangChat的升级版，使用Visual Basic 6.0编写，让每个人都能轻松地体验到站长的快乐。项目编写中，敬请期待！
